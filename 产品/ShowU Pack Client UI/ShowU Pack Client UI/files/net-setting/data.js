@@ -1,0 +1,422 @@
+﻿$axure.loadCurrentPage({
+  "url":"net-setting.html",
+  "generationDate":new Date(1459858381053.3),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"d80962bb407549fe9897a8253707a43a",
+    "type":"Axure:Page",
+    "name":"net-setting",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"a8dac9c683bb418ba2c45635584de838",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":120,
+              "y":216},
+            "size":{
+              "width":100,
+              "height":30},
+            "cornerRadiusTopLeft":"5"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d09f48e79ba2483393c2b97578215cb2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":120,
+                  "y":216},
+                "size":{
+                  "width":100,
+                  "height":30},
+                "cornerRadiusTopLeft":"5"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Back in Current Window",
+                      "target":{
+                        "targetType":"backUrl",
+                        "includeVariables":false},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/login/u9.png"}},
+{
+          "id":"319a67eb7d51462fa7f1157e1065d960",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "location":{
+              "x":130,
+              "y":84},
+            "size":{
+              "width":250,
+              "height":15}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dab1adab9dce4f1297e3638ce4878f35",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "location":{
+                  "x":130,
+                  "y":84},
+                "size":{
+                  "width":250,
+                  "height":15}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Celluar-setting in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"celluar-setting.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"3946f30ae4df4862873ac1a3d1b38007",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "location":{
+              "x":130,
+              "y":109},
+            "size":{
+              "width":250,
+              "height":15}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ec61a29cb9d344aa8ecd5ee1149d938c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "location":{
+                  "x":130,
+                  "y":109},
+                "size":{
+                  "width":250,
+                  "height":15}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Wifi-setting in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"wifi-setting.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"72dc88b46ba647ea8e3961ed8696ce90",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "location":{
+              "x":130,
+              "y":134},
+            "size":{
+              "width":251,
+              "height":15}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"029426a6a5874dfaa667049f2fedd6f4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "location":{
+                  "x":130,
+                  "y":134},
+                "size":{
+                  "width":251,
+                  "height":15}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Cable-setting in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"cable-setting.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"ca3ba842369c433b8b09e0c63c3f3c97",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":130,
+              "y":168},
+            "size":{
+              "width":52,
+              "height":15}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2128f5eb325541f7b3fdbdb224e41daa",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":130,
+                  "y":168},
+                "size":{
+                  "width":52,
+                  "height":15}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"cf9894e9dd7543debc97ec3a6ecc19a0",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":387,
+              "y":164},
+            "size":{
+              "width":23,
+              "height":21}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f0908df35e5c4e40b2b5dc4497331262",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":387,
+                  "y":164},
+                "size":{
+                  "width":23,
+                  "height":21}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open net-auth-setting in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"net-auth-setting.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/net-setting/u10.jpg"}},
+{
+          "id":"948fdba3aa904c6b874793899c6f7e3a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":130,
+              "y":55},
+            "size":{
+              "width":178,
+              "height":15}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"82fd75862a754a2cb33f2a686b54e218",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":130,
+                  "y":55},
+                "size":{
+                  "width":178,
+                  "height":15}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"1107f8bae8b94097aa30351b6949ad2e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "location":{
+              "x":130,
+              "y":11},
+            "size":{
+              "width":98,
+              "height":15}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"771fdbae2dea4ef4a5c67dc26089734f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "location":{
+                  "x":130,
+                  "y":11},
+                "size":{
+                  "width":98,
+                  "height":15}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "a8dac9c683bb418ba2c45635584de838":{
+      "scriptId":"u0"},
+    "d09f48e79ba2483393c2b97578215cb2":{
+      "scriptId":"u1"},
+    "319a67eb7d51462fa7f1157e1065d960":{
+      "scriptId":"u2"},
+    "dab1adab9dce4f1297e3638ce4878f35":{
+      "scriptId":"u3"},
+    "3946f30ae4df4862873ac1a3d1b38007":{
+      "scriptId":"u4"},
+    "ec61a29cb9d344aa8ecd5ee1149d938c":{
+      "scriptId":"u5"},
+    "72dc88b46ba647ea8e3961ed8696ce90":{
+      "scriptId":"u6"},
+    "029426a6a5874dfaa667049f2fedd6f4":{
+      "scriptId":"u7"},
+    "ca3ba842369c433b8b09e0c63c3f3c97":{
+      "scriptId":"u8"},
+    "2128f5eb325541f7b3fdbdb224e41daa":{
+      "scriptId":"u9"},
+    "cf9894e9dd7543debc97ec3a6ecc19a0":{
+      "scriptId":"u10"},
+    "f0908df35e5c4e40b2b5dc4497331262":{
+      "scriptId":"u11"},
+    "948fdba3aa904c6b874793899c6f7e3a":{
+      "scriptId":"u12"},
+    "82fd75862a754a2cb33f2a686b54e218":{
+      "scriptId":"u13"},
+    "1107f8bae8b94097aa30351b6949ad2e":{
+      "scriptId":"u14"},
+    "771fdbae2dea4ef4a5c67dc26089734f":{
+      "scriptId":"u15"}}});
